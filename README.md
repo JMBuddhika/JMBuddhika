@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- OPENCLAW:AUTO:START -->
+
+## 🔍 Current Focus
+**Distributed Systems** — Week of 2026-03-23
+
+## 🛠️ Active This Week
+- [dsa-solutions] I’d choose **Floyd-Warshall for all-pairs shortest paths (wi...
+
+## 🎯 Targeting
+ML Engineer / MLOps Engineer roles at Grab
+Python · SQL
+
+<!-- OPENCLAW:AUTO:END -->
