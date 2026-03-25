@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - [dsa-solutions] I’d choose **Floyd-Warshall for all-pairs shortest paths (wi...
 
 ## 🎯 Targeting
-ML Engineer / MLOps Engineer roles at Grab
+ML Engineer / MLOps Engineer 
 Python · SQL
 
 <!-- OPENCLAW:AUTO:END -->
