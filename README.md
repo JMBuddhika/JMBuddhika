@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Muditha%20Buddhika&fontSize=46&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Apps%20%7C%20RAG%20Systems%20%7C%20Applied%20ML&descAlignY=60&fontColor=ffffff&animation=fadeIn" alt="banner" />
 </p>
 
-<h3 align="center">Building practical AI products, not just demos</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=LLM+Applications;RAG+Pipelines;Production-Focused+AI+Solutions;Applied+Machine+Learning" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JMBuddhika&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
