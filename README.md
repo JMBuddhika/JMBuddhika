@@ -60,14 +60,10 @@
 
 ---
 
-### 📊 My Statistics
+## 📊 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JMBuddhika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JMBuddhika&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JMBuddhika&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMBuddhika&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
@@ -78,31 +74,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,django,postgres,mysql,mongodb,docker,git,github,linux,aws,vscode" />
 </p>
-
----
-
-### 🎯 Current Focus
-
-- Building stronger **AI engineer portfolio projects**
-- Designing **production-grade GenAI applications**
-- Improving **system design, model evaluation, and deployment thinking**
-- Creating AI products that are both **useful and visually impressive**
-
----
-
-### 🤝 Let’s Collaborate On
-
-- GenAI products
-- RAG applications
-- AI automation tools
-- Applied ML systems
-- AI startup ideas
-
----
-
-### ⭐ Support
-
-If you like my work, consider:
-- Starring my repositories
-- Connecting with me on LinkedIn
-- Following my GitHub journey
