@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:141E30,100:243B55&text=Muditha%20Buddhika&fontSize=50&fontAlignY=36&desc=AI%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Applied%20ML&descAlignY=58&animation=twinkling&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Muditha%20Buddhika&fontSize=46&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Apps%20%7C%20RAG%20Systems%20%7C%20Applied%20ML&descAlignY=60&fontColor=ffffff&animation=fadeIn" alt="banner" />
+</p>
+
+<h3 align="center">Building practical AI products, not just demos</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=LLM+Applications;RAG+Pipelines;Production-Focused+AI+Solutions;Applied+Machine+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Designing+LLM+apps+with+retrieval+and+guardrails;Building+RAG+systems+for+real-world+use;Turning+complex+AI+ideas+into+usable+products" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-AI%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Apps-Building-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Production%20Focused-0A66C2?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=JMBuddhika&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/JMBuddhika?label=Followers&style=for-the-badge&color=181717" alt="followers" />
 </p>
 
 <h3 align="center">
