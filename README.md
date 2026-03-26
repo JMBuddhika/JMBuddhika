@@ -17,6 +17,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JMBuddhika&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/JMBuddhika?label=Followers&style=for-the-badge&color=181717" alt="GitHub followers" />
+</p>
+
 <h3 align="center">
   I am an AI Engineer focused on building LLM applications, RAG systems, and production-ready AI solutions
 </h3>
@@ -25,10 +30,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+practical+AI+products+for+real-world+use;Designing+LLM+apps+with+retrieval%2C+guardrails%2C+and+evaluation;Turning+complex+AI+ideas+into+clean%2C+usable+solutions" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JMBuddhika&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/JMBuddhika?label=Followers&style=for-the-badge&color=181717" alt="GitHub followers" />
-</p>
+
 
 <p align="center">
   <i>I build AI systems that are not just impressive in demos, but useful in real products.</i>
