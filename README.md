@@ -1,12 +1,32 @@
-<h1 align="center">Hi 👋, I'm Muditha Buddhika</h1>
-<h3 align="center">AI Engineer | Building LLM Apps, RAG Systems, and Production-Focused AI Solutions</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Muditha%20Buddhika&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Apps%20%7C%20RAG%20Systems%20%7C%20Applied%20ML&descAlignY=58&animation=fadeIn&fontColor=ffffff" alt="banner" />
+</p>
+
+<h1 align="center">Hi 👋 I'm Muditha Buddhika</h1>
+
+<h3 align="center">
+  AI Engineer focused on building LLM applications, RAG systems, and production-ready AI solutions
+</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Muditha%20Buddhika&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20Applied%20ML&descAlignY=60&animation=fadeIn" alt="banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+practical+AI+products+for+real-world+use;Designing+LLM+apps+with+retrieval%2C+guardrails%2C+and+evaluation;Turning+complex+AI+ideas+into+clean%2C+usable+solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JMBuddhika&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Apps-Building-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-Production%20Focused-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GenAI-Applied-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI%20%7C%20Streamlit%20%7C%20ML-Portfolio%20Projects-2EA44F?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JMBuddhika&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/JMBuddhika?label=Followers&style=for-the-badge&color=181717" alt="GitHub followers" />
+</p>
+
+<p align="center">
+  <i>I build AI systems that are not just impressive in demos, but useful in real products.</i>
 </p>
 
 ---
