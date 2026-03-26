@@ -46,26 +46,6 @@
 
 ---
 
-### 🛠️ What I Build
-
-- **LLM-powered apps** with retrieval, grounding, and guardrails  
-- **RAG systems** for document chat, contract analysis, and knowledge workflows  
-- **Applied ML solutions** for forecasting, prediction, and optimization  
-- **AI product prototypes** that look polished and are portfolio-ready  
-
----
-
-### 📌 Featured Project Areas
-
-- 📄 **Legal AI / Contract Copilot**
-- 🧩 **Multi-tenant RAG Platforms**
-- 💸 **AI Invoice & Payment Follow-up SaaS**
-- 📈 **Time-Series Forecasting and Optimization**
-- 🎥 **GAN-based Video Generation and Image Manipulation**
-
-
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
