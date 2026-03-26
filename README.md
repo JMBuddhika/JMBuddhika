@@ -9,9 +9,10 @@
   <a href="https://github.com/JMBuddhika" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="github" />
   </a>
-  <a href="mailto:jmudithab@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="email" />
-  </a>
+<a href="mailto:jmudithab@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="email" />
+</a>
+
   <a href="https://jmbuddhika.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel" alt="portfolio" />
   </a>
