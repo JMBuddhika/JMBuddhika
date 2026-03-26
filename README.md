@@ -1,5 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Muditha%20Buddhika&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Apps%20%7C%20RAG%20Systems%20%7C%20Applied%20ML&descAlignY=58&animation=fadeIn&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:141E30,100:243B55&text=Muditha%20Buddhika&fontSize=50&fontAlignY=36&desc=AI%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Applied%20ML&descAlignY=58&animation=twinkling&fontColor=ffffff" alt="banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Designing+LLM+apps+with+retrieval+and+guardrails;Building+RAG+systems+for+real-world+use;Turning+complex+AI+ideas+into+usable+products" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-AI%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Apps-Building-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Production%20Focused-0A66C2?style=for-the-badge" />
 </p>
 
 <h3 align="center">
