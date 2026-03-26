@@ -38,7 +38,6 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m focused on **AI engineering, LLM applications, RAG systems, and applied machine learning**
 - 🌱 I’m currently improving my skills in **production-grade GenAI systems, model evaluation, and scalable AI deployment**
 - 🧠 I enjoy building **real-world AI products** instead of just experiments
 - 💬 Ask me about **Python, LLM apps, RAG pipelines, FastAPI, Streamlit, vector search, and AI product building**
