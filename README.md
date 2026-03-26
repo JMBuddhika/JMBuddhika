@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Muditha%20Buddhika&fontSize=46&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Apps%20%7C%20RAG%20Systems%20%7C%20Applied%20ML&descAlignY=60&fontColor=ffffff&animation=fadeIn" alt="banner" />
 </p>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JMBuddhika&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/JMBuddhika?label=Followers&style=for-the-badge&color=181717" alt="followers" />
-</p>
-
 <h3 align="center">
   I am an AI Engineer focused on building LLM applications, RAG systems, and production-ready AI solutions
 </h3>
