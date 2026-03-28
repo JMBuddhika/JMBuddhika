@@ -56,13 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMBuddhika&theme=tokyonight&hide_border=true&layout=compact" height="170" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=JMBuddhika&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
 
 ---
 
