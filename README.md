@@ -107,3 +107,20 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 </p>
+
+<!-- OPENCLAW:AUTO:START -->
+
+## 🔍 Current Focus
+**MLOps & Observability** — Week of 2026-03-30
+
+## 🛠️ Active This Week
+- [dsa-solutions] I’d choose **graph — topological sort (Kahn’s algorithm) for...
+- [system-design-notes] I’d choose **“Design a distributed notification system for p...
+- [ml-paper-implementations] I’d choose **“Distributed ResNet training (data-parallel) wi...
+- [mlops-showcase] I’d choose **“Distributed inference architecture: batch vs r...
+
+## 🎯 Targeting
+ML Engineer / MLOps Engineer roles at Grab
+Python · SQL
+
+<!-- OPENCLAW:AUTO:END -->
