@@ -47,15 +47,6 @@
 - 🚀 Interested in **AI engineer, GenAI, and applied ML opportunities**
 - ⚡ Fun fact: I like turning complex AI ideas into practical products that people can actually use
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JMBuddhika&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMBuddhika&theme=tokyonight&hide_border=true&layout=compact" height="170" />
-</p>
-
 
 ---
 
