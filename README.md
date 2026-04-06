@@ -119,8 +119,5 @@
 - [ml-paper-implementations] 404 No endpoints found for google/gemini-2.0-flash-exp:free....
 - [dsa-solutions] 404 No endpoints found for google/gemini-2.0-flash-exp:free....
 
-## 🎯 Targeting
-ML Engineer / MLOps Engineer roles at Grab
-MLOps / Pipelines
 
 <!-- OPENCLAW:AUTO:END -->
