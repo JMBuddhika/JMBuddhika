@@ -100,24 +100,3 @@
 </p>
 
 
-## 🔍 Current Focus
-**MLOps & Observability** — Week of 2026-03-30
-
-## 🛠️ Active This Week
-- [dsa-solutions] I’d choose **graph — topological sort (Kahn’s algorithm) for...
-- [system-design-notes] I’d choose **“Design a distributed notification system for p...
-- [ml-paper-implementations] I’d choose **“Distributed ResNet training (data-parallel) wi...
-- [mlops-showcase] I’d choose **“Distributed inference architecture: batch vs r...
-
-<!-- OPENCLAW:AUTO:START -->
-
-## 🔍 Current Focus
-**MLOps & Observability** — Week of 2026-04-06
-
-## 🛠️ Active This Week
-- [mlops-showcase] 404 No endpoints found for google/gemini-2.0-flash-exp:free....
-- [ml-paper-implementations] 404 No endpoints found for google/gemini-2.0-flash-exp:free....
-- [dsa-solutions] 404 No endpoints found for google/gemini-2.0-flash-exp:free....
-
-
-<!-- OPENCLAW:AUTO:END -->
